@@ -62,6 +62,7 @@ Feature request? Check the past discussions to see if it has been brought up pre
 - [sabare.me](https://sabare.me/) - Victor Sabare's personal website and blog ([source code](https://github.com/Sabareh/blog)
 - [https://bitoflearning-9a57.fly.dev/](https://bitoflearning-9a57.fly.dev/) - Sangeet Agarwal's personal blog, replatformed to [remix](https://remix.run/remix) using the [indie stack](https://github.com/remix-run/indie-stack) ([source code](https://github.com/SangeetAgarwal/bitoflearning)) WIP
 - [raphaelchelly.com](https://www.raphaelchelly.com/) - Raphaël Chelly's personal website and blog ([source code](https://github.com/raphaelchelly/raph_www))
+- [gregliest.com](https://www.gregliest.com/) - Greg Lee's personal website and blog. Heavily modified, but I started with this template. ([source code](https://github.com/Gregliest/Blog))
 
 Using the template? Feel free to create a PR and add your blog to this list.
 
@@ -172,7 +173,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 `data/headerNavLinks.js` - navigation links.
 
-`data/logo.svg` - replace with your own logo.
+`data/logo.svg` - replace with your own logo. Also replace the favicons in `public/static` to change the browser tab icons. You can generate favicons with a service like  https://realfavicongenerator.net/. 
 
 `data/blog` - replace with your own blog posts.
 
